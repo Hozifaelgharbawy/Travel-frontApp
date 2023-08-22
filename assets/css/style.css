@@ -1,0 +1,223 @@
+body {
+  padding: 30px 150px;
+}
+
+
+.nav-item a {
+  color: #a3a1a1;
+}
+
+.nav-item a:hover {
+  color: #e96624;
+}
+.nav-item a:active {
+  color: #e96624;
+}
+
+
+.btn-primary {
+  color: #ffffff;
+  background-color: #e96624;
+  border-color: #e96624;
+}
+
+.btn-outline-primary {
+  color: #e96624;
+  border-color: #e96624;
+}
+
+
+p.major:after {
+  background: rgba(0, 0, 0);
+  content: '';
+  display: inline-block;
+  height: 3px;
+  width: 3em;
+}
+
+
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 4.5rem;
+}
+
+p {
+  margin: 30px 0 0 0;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+
+div.btn-group {
+  margin: 0 0 30px 0;
+}
+
+div.group {
+  margin: 100px 0 0 0;
+}
+
+.dropdown-toggle {
+  margin: -40px 16px 0 0;
+  padding: 12px 0px 12px 77px;
+}
+
+.Location {
+  padding-right: 60px;
+  padding-left: 60px;
+}
+
+.Activity {
+  padding-right: 60px;
+  padding-left: 60px;
+}
+
+.Grade {
+  padding-right: 68px;
+  padding-left: 68px;
+}
+
+.Date {
+  padding-right: 70px;
+  padding-left: 70px;
+}
+
+.Explore {
+  margin: -35px 70% 0 0;
+  padding: 12px 0;
+}
+
+section {
+  margin: 150px 0 150px 0;
+}
+
+
+.content {
+  margin: 100px 0px 0 0;
+  padding: 0 0 0 70px;
+}
+
+.content h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+}
+
+.content p {
+  color: #adacac;
+  margin: 30px 0;
+  font-size: 1.3rem;
+}
+
+
+.Learn-more {
+  padding: 12px 40px;
+}
+
+.card {
+  color: #a3a1a1;
+}
+
+.card h3 {
+  color: #e96624;
+}
+
+.View-all {
+  text-decoration: none;
+  color: #e96624;
+  font-size: revert;
+}
+
+.slide {
+  width: 350px;
+  margin: 0px 190px;
+  border-radius: 10px
+}
+
+.slide img {
+  border-radius: 32px;
+}
+
+
+.Testimonials {
+  margin: -90px 0 110px 0;
+}
+
+h6 {
+  margin: 70px 0 0 0;
+}
+
+#Founder {
+  margin: 0 0 0 0;
+}
+
+#two {
+  margin: 0 -152px;
+  padding: 150px 80px;
+}
+
+#four {
+  margin: 0 -152px;
+  padding: 150px 80px;
+}
+
+#five {
+  margin: 0 -152px;
+  padding: 150px 80px;
+}
+
+
+.btn-primary:hover,
+.btn-outline-primary:hover {
+  color: #ffffff;
+  background-color: #4e210a;
+}
+
+
+#six img {
+  height: 250px;
+}
+
+#six p {
+  color: #a3a1a1;
+  font-size: 15px;
+  margin: 15px 0 ;
+}
+
+#six h5 {
+  color: #000000;
+}
+
+ a {
+  text-decoration: none;
+  color: #e96624;
+  font-size: revert;
+}
+
+footer.py-5{
+  padding-bottom: 0rem!important;
+}
+
+footer p {
+  color: #a3a1a1;
+  font-size: 17px;
+  margin: 30px 0 ;
+}
+
+
+.Watermark {
+  font-size: 11px;
+}
+
+#seven div ul {
+  margin: 40px 0;
+}
+
+#seven {
+  background-color: #f1f1f1;
+  margin: 0 -152px;
+  padding: 0px 80px 0px 150px;
+}
+
+footer.text-center {
+  margin: -215px;
+}
